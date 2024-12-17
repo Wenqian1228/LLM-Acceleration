@@ -4,13 +4,9 @@
 ## Table of Contents
 
 *[Model Pruning](#model-pruning) 
-
 *[Model Quantization](#model-quantization)
-
 *[Low-Rank Decomposition](#low-rank-decomposition)
-
 *[Others](#low-rank-decomposition)
-
 *[Useful Toolchains](#useful-toolchains)
 
 -----
@@ -57,6 +53,10 @@ Guangxuan Xiao, Ji Lin, Mickael Seznec, Hao Wu, Julien Demouth, Song Han <br>
 [[code]](https://github.com/mit-han-lab/smoothquant) 
 
 ## Low-Rank Decomposition
+
+- [SVD-LLM: Truncation-aware Singular Value Decomposition for Large Language Model Compression](https://arxiv.org/abs/2403.07378) (**Arxiv**) 2024. <br>
+Xin Wang, Yu Zheng, Zhongwei Wan, Mi Zhang <br>
+[[code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
 
 ## Others 
 
