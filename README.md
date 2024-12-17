@@ -16,6 +16,15 @@
 -----
 
 ## Model Pruning
+- [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/abs/2301.00774) (**ICML**) 2023.
+[[code]](https://github.com/IST-DASLab/sparsegpt) <br>
+Post-training method for pruning LLMs in one-shot without any retraining. Updating weights by solving a layer-wise weight reconstruction problem. （Unstructured）
+
+- [LLM-Pruner: On the Structural Pruning of Large Language Models](https://arxiv.org/abs/2305.11627) (**NeurIPS**) 2023.
+[[code]](https://github.com/horseee/LLM-Pruner) <br>
+First discover all coupled structures following Depgraph, then estimate grouped importance of coupled structure on calibration, then prune less important groups, and last finetune with efficient LoRA on Alpaca dataset consists of 50K instruction-response pairs.（Structured）
+
+
 
 ## Model Quantization
 
