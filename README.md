@@ -30,13 +30,15 @@ First discover all coupled structures following Depgraph, then estimate grouped 
 
 - [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) (**ICLR**) 2023.[[code]](https://github.com/IST-DASLab/gptq)
 Elias Frantar, Saleh Ashkboos, Torsten Hoefler, Dan Alistarh
-[[code]](https://github.com/IST-DASLab/gptq)
-
 
 - [QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://hanlab.mit.edu/projects/qserve) (**Arkiv**) 2024. [[code]](https://github.com/mit-han-lab/qserve)
 Yujun Lin*, Haotian Tang*, Shang Yang*, Zhekai Zhang, Guangxuan Xiao, Chuang Gan, Song Han
 
-- [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) (**MLSys**) 2025. 
+- [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) (**MLSys**) 2025. [[code]](https://github.com/mit-han-lab/llm-awq)
+Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han
+
+- [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) (**ICML**) 2023. [[code]](https://github.com/mit-han-lab/smoothquant)
+Guangxuan Xiao, Ji Lin, Mickael Seznec, Hao Wu, Julien Demouth, Song Han
 
 ## Low-Rank Decomposition
 
