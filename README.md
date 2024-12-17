@@ -4,9 +4,13 @@
 ## Table of Contents
 
 *[Model Pruning](#model-pruning) 
+
 *[Model Quantization](#model-quantization)
+
 *[Low-Rank Decomposition](#low-rank-decomposition)
+
 *[Others](#low-rank-decomposition)
+
 *[Useful Toolchains](#useful-toolchains)
 
 -----
