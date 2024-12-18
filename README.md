@@ -36,7 +36,15 @@ Mengzhou Xia, Tianyu Gao, Zhiyuan Zeng, Danqi Chen <br>
 In first stage, training-aware pruning learns masks satisfying specified target by imposing regularization on ~0.4B tokens; then retrain on other ~5B tokens of RedPajama dataset. Dynamic batch loading method to update the composition of sampled data per mini-batch across different domains. (Structured) <br>
 [[code]](https://github.com/princeton-nlp/LLM-Shearing)
 
+- [Compact Language Models via Pruning and Knowledge Distillation](https://arxiv.org/abs/2407.14679) (**arXiv**) 2024. <br>
+Saurav Muralidharan*, Sharath Turuvekere Sreenivas*, Raviraj Joshi, Marcin Chochowski, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Jan Kautz, Pavlo Molchanov <br>
+Prune LLMs structurally along different axes such as layer, neuron, head, and embedding channel, similar to NAS that searches over different dimensions. Difference lies in the defined search space that for pruning a pre-trained large model as search space (simpler) while NAS searches over a manually-pre-defined search space (more complex) from scratch. Different proxy importance scores are estimated for depth and width pruning. Retraining with knowledge distillation requires up to 40x fewer training tokens. (Structured + distillation) <br>
+[[code]](https://github.com/NVlabs/Minitron)
 
+- [Shortened LLaMA: A Simple Depth Pruning for Large Language Models](https://arxiv.org/abs/2402.02834) (**ICLR Workshop**) 2024. <br>
+Bo-Kyeong Kim*, Geonmin Kim*, Tae-Ho Kim, Thibault Castells, Shinkook Choi, Junho Shin, Hyoung-Kyu Song <br>
+First identify unimportant Transformer blocks (bigger and coarse units), then perform one-shot pruning with Perplexity (PPL) as pruning criteria and light LoRA retraining. Show fast inference and good zero-shot capabilities. (Structured) <br>
+[[code]](https://github.com/Nota-NetsPresso/shortened-llm)
 
 ## Model Quantization
 
