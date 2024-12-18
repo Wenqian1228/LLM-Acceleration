@@ -44,9 +44,33 @@ Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Gu
 Guangxuan Xiao, Ji Lin, Mickael Seznec, Hao Wu, Julien Demouth, Song Han <br>
 [[code]](https://github.com/mit-han-lab/smoothquant) 
 
+- [SqueezeLLM: Dense-and-Sparse Quantization](https://arxiv.org/abs/2306.07629) (**ICML**) 2024. <br>
+Sehoon Kim, Coleman Richard Charles Hooper, Amir Gholami, Zhen Dong, Xiuyu Li, Sheng Shen, Michael W. Mahoney, Kurt Keutzer <br>
+[[code]](https://github.com/SqueezeAILab/SqueezeLLM)
+
+- [COAT: Compressing Optimizer States and Activation for Memory-Efficient FP8 Training](https://arxiv.org/abs/2410.19313) (**Arkiv**) 2024. <br>
+Haocheng Xi, Han Cai, Ligeng Zhu, Yao Lu, Kurt Keutzer, Jianfei Chen, Song Han <br>
+[[code]](https://github.com/NVlabs/COAT?tab=readme-ov-file)
+
+- [KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization](https://arxiv.org/abs/2401.18079) (**NIPS**) 2024. <br>
+Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia Shao, Kurt Keutzer, Amir Gholami <br>
+[[code]](https://github.com/SqueezeAILab/KVQuant)
+
+
+
+
+
+
+
 ## Low-Rank Decomposition
 
 ## Others 
+- [Computational Bottlenecks of Training Small-scale Large Language Models](https://arxiv.org/abs/2410.19456) (**Arkiv**) 2024. <br>
+Saleh Ashkboos, Iman Mirzadeh, Keivan Alizadeh, Mohammad Hossein Sekhavat, Moin Nabi, Mehrdad Farajtabar, Fartash Faghri <br>
+
+- [LLMCompiler: An LLM Compiler for Parallel Function Calling](https://github.com/SqueezeAILab/LLMCompiler) (**ICML**) 2024. <br>
+Sehoon Kim, Suhong Moon, Ryan Tabrizi, Nicholas Lee, Michael W. Mahoney, Kurt Keutzer, Amir Gholami <br>
+[[code]](https://github.com/SqueezeAILab/LLMCompiler?tab=readme-ov-file)
 
 ## Useful Toolchains
 
