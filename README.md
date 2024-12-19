@@ -88,6 +88,10 @@ Coleman Hooper, Sehoon Kim, Hiva Mohammadzadeh, Michael W. Mahoney, Yakun Sophia
 Xin Wang, Yu Zheng, Zhongwei Wan, Mi Zhang <br>
 [[code]](https://github.com/AIoT-MLSys-Lab/SVD-LLM)
 
+- [ASVD: Activation-aware Singular Value Decomposition for Compressing Large Language Models](https://arxiv.org/abs/2312.05821) (**Arxiv**) 2024. <br>
+Zhihang Yuan, Yuzhang Shang, Yue Song, Qiang Wu, Yan Yan, Guangyu Sun <br>
+[[code]](https://github.com/hahnyuan/ASVD4LLM)
+
 ## Others 
 - [Computational Bottlenecks of Training Small-scale Large Language Models](https://arxiv.org/abs/2410.19456) (**Arkiv**) 2024. <br>
 Saleh Ashkboos, Iman Mirzadeh, Keivan Alizadeh, Mohammad Hossein Sekhavat, Moin Nabi, Mehrdad Farajtabar, Fartash Faghri <br>
