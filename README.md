@@ -46,6 +46,11 @@ Bo-Kyeong Kim*, Geonmin Kim*, Tae-Ho Kim, Thibault Castells, Shinkook Choi, Junh
 First identify unimportant Transformer blocks (bigger and coarse units), then perform one-shot pruning with Perplexity (PPL) as pruning criteria and light LoRA retraining. Show fast inference and good zero-shot capabilities. (Structured) <br>
 [[code]](https://github.com/Nota-NetsPresso/shortened-llm)
 
+- [ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models](https://arxiv.org/abs/2412.00447) (**CVPR**) 2024. <br>
+Xubing Ye, Yukang Gan, Yixiao Ge*, Xiao-ping Zhang, Yansong Tang* <br>
+Revealing the importance of adaptively determining pruning ratios at the instance and LLM layer levels for effective visual token pruning, and propose ATP-LLaVA, a framework that dynamically reduces computational cost for large vision language models. (VLM pruning) <br>
+[[page]](https://yxxxb.github.io/ATP-LLaVA-page/)
+
 ## Model Quantization
 
 - [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) (**ICLR**) 2023. <br>
